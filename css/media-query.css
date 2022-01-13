@@ -1,0 +1,394 @@
+@media (max-width: 575.98px) {
+	/* Início - Cabeçalho */
+		.navbar-brand {
+			padding-left: 15px;
+		}
+
+		.navbar-nav {
+			padding-left: 15px;
+		}
+
+		#fundo {
+			background-image: url(../img/capa-mobile.jpg);
+			height: 900px;
+		}
+
+		.orientar {
+			margin: 0 auto;
+			text-align: center;
+		}
+
+		header h1 {
+			font-family: "Barlow Bold";
+			font-size: 55px;
+			line-height: 45px;
+			margin-bottom: 30px;
+		}
+
+		header p {
+			font-size: 17px;
+		}
+
+		header a {
+			font-size: 17px;
+		}
+	/* Fim - Cabeçalho */
+
+	/* Início - Conheça */
+		.conheca {
+			width: 100%;
+			padding: 20px;
+			font-size: 14px;
+			background-color: #efaa3f;
+			border-radius: 0;
+			line-height: 13.5px;
+			text-align: center;
+		}
+
+		.conheca h2 {
+			font-family: "Barlow Bold";
+			margin-bottom: 20px;
+		}
+
+		.conheca a {
+			font-family: "Barlow Bold";
+			font-size: 14px;
+			color: #4f6533;
+		}
+
+		.margem {
+			margin-top: 0px;
+		}
+	/* Fim - Conheça */
+
+	/* Início - Fazemos */
+		.fazemos {
+			background-color: #fff;
+			padding: 50px;
+			top: -200px;
+			margin-bottom: -200px;
+		}
+
+		.fazemos h1 {
+			font-family: "Barlow Bold";
+		}
+
+		.fazemos img {
+			margin-bottom: 40px;
+		}
+
+		.fazemos a {
+			margin-top: -250px;
+			font-family: "Barlow Bold";
+			color: #4f6533;
+		}
+
+		.fazemos h4 {
+			font-size: 17px;
+			margin-top: -20px;
+			margin-bottom: 20px;
+		}
+
+		.center {
+			text-align: center;
+		}
+
+		.margem-1 {
+			margin: 0 auto;
+		}
+
+		.margem-2 {
+			margin-left: 90px;
+		}
+	/* Fim - Fazemos */
+
+	/* Início - Serviço 1 */
+		#icone-1 {
+		    position: relative;
+		    top: -40px;
+		    width: 140px;
+		    height: 140px;
+		    background-color: #f2ecdf;
+		    margin-left: 170px;
+		    border-radius: 50%;
+		    padding: 33px;
+		    margin-bottom: -150px;
+		}
+
+		.servico-1 {
+			background-color: #f2ecdf;
+			color: #4f6533;
+			font-size: 13px;
+			padding: 50px;
+			text-align: center;
+		}
+
+		.servico-1 img {
+			margin-top: 20px;
+		}
+
+		.servico-1 h2 {
+			font-family: "Barlow Bold";
+			font-size: 24px;
+		}
+
+		.servico-1 p {
+			font-size: 14px;
+		}
+
+		.servico-1 a {
+			font-family: "Barlow Bold";
+			font-size: 13px;
+			color: #4f6533;
+			margin-top: 20px;
+			margin-bottom: 20px;
+		}
+	/* Fim - Serviço 1 */
+
+	/* Início - Serviço 2 */
+		#icone-2 {
+		    position: relative;
+		    top: -40px;
+		    width: 130px;
+		    height: 130px;
+		    background-color: #4f6533;
+		    margin: 0 auto;
+		    border-radius: 50%;
+		    padding: 28px;
+		    margin-bottom: -130px;
+		}
+
+		.servico-2 {
+			background-color: #4f6533;
+			color: #f2ecdf;
+			font-size: 13px;
+			padding: 50px;
+			text-align: center;
+		}
+
+		.servico-2 img {
+			margin-top: 20px;
+		}
+
+		.servico-2 h2 {
+			font-family: "Barlow Bold";
+			font-size: 24px;
+		}
+
+		.servico-2 p {
+			font-size: 12px;
+		}
+
+		.servico-2 a {
+			font-family: "Barlow Bold";
+			font-size: 13px;
+			color: #f2ecdf;
+			margin-top: 20px;
+		}
+	/* Fim - Serviço 2 */	
+
+	/* Início - Serviços 3 */
+		#icone-3 {
+		    position: relative;
+		    top: -40px;
+		    width: 130px;
+		    height: 130px;
+		    background-color: #f2ecdf;
+		    margin: 0 auto;
+		    border-radius: 50%;
+		    padding: 28px;
+		    margin-bottom: -130px;
+		}
+
+		.servico-3 {
+			position: static;
+			background-color: #f2ecdf;
+			color: #4f6533;
+			font-size: 13px;
+			padding: 50px;
+			text-align: center;
+		}
+
+		.servico-3 img {
+			margin-top: 20px;
+		}
+
+		.servico-3 h2 {
+			font-family: "Barlow Bold";
+			font-size: 24px;
+		}
+
+		.servico-3 p {
+			font-size: 12px;
+		}
+
+		.servico-3 a {
+			font-family: "Barlow Bold";
+			font-size: 13px;
+			color: #4f6533;
+			margin-top: 20px;
+		}
+
+		.servico-3 ul {
+			margin-left: 20px;
+			font-size: 12px;
+			text-align: left;
+		}
+	/* Fim - Serviços 3 */
+
+	/* Início - Formulário */
+		.formulario {
+			position: static;
+			height: 680px;
+			padding: 30px;
+			background-color: #4f6533;
+			background-image: url(../img/capa-rodape.jpg);
+			color: #f2ecdf;
+		}
+
+		.formulario img {
+			width: 100px;
+			height: 100px;
+		}
+
+		.alinhar-2 {
+			margin-left: 80px;
+		}
+
+		.formulario h2 {
+			color: #efaa3f;
+			font-family: "Barlow Bold";
+			font-size: 18px;
+			margin-top: -10px;
+		}
+
+		.formulario h4 {
+			color: #efaa3f;
+		}
+
+		.formulario a {
+			color: #f2ecdf;
+			text-decoration: none;
+		}
+
+		label {
+			font-family: "Barlow Bold";
+			margin-top: 15px;
+		}
+
+		input {
+			width: 85%;
+			height: 35px;
+			padding-left: 5px;
+			border: 2px solid #efaa3f;
+		}
+
+		textarea {
+			width: 85%;
+			height: 65px;
+			padding-left: 5px;
+			border: 2px solid #efaa3f;
+		}
+
+		input.btn-caluba {
+			margin-top: 15px;
+			margin-left: 205px;
+			width: 25%;
+			cursor: pointer;
+			font-weight: bold;
+			color: #efaa3f;
+			background-color: #4f6533;
+			padding-right: 7px;
+		}
+	/* Fim - Formulário */
+
+	/* Início - Realização */
+		.realizacao {
+			background-color: #fff;
+			color: #282828;
+			text-align: center;
+			padding: 10px;
+		}
+
+		.realizacao a {
+			text-decoration: none;
+			color: #282828;
+			font-weight: bold;
+		}
+
+		.realizacao a:hover {
+			text-decoration: underline;
+			color: #282828;
+			font-weight: bold;
+		}
+	/* Fim - Realização */
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/* Início - Cabeçalho */
+		#fundo {
+			background-image: url(../img/capa-mobile.jpg);
+			height: 900px;
+		}
+
+		.orientar {
+			margin: 0 auto;
+			text-align: center;
+		}
+
+		header h1 {
+			font-family: "Barlow Bold";
+			font-size: 55px;
+			line-height: 45px;
+			margin-bottom: 30px;
+		}
+
+		header p {
+			font-size: 17px;
+		}
+
+		header a {
+			font-size: 17px;
+		}
+	/* Fim - Cabeçalho */	
+
+	/* Início - Conheça */
+		.conheca {
+			width: 100%;
+			padding: 20px;
+			font-size: 14px;
+			background-color: #efaa3f;
+			border-radius: 0;
+			line-height: 13.5px;
+			text-align: center;
+		}
+
+		.conheca h2 {
+			font-family: "Barlow Bold";
+			margin-bottom: 20px;
+		}
+
+		.conheca a {
+			font-family: "Barlow Bold";
+			font-size: 14px;
+			color: #4f6533;
+		}
+
+		.margem {
+			margin-top: 100px;
+			display: none;
+		}
+	/* Fim - Conheça */
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+@media (min-width: 1200px) {
+	
+}
