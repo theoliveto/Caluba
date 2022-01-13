@@ -7,8 +7,8 @@ Foi criado 3 arquivos CSS:
 - De Media Queries;
 - E por fim o Estilo Customizado.
 
-O projeto todo foi desenvolvido com base no Bootstrap, visando a Resposividade.
+O projeto todo foi desenvolvido com base no Bootstrap, visando a Responsividade.
 
 Acabei utilizando também o Fontawesome para alguns ícones.
 
-Agradeço a oportunidade e mostrar o que sei, espero que gostem!
+Agradeço a oportunidade de mostrar o que sei, espero que gostem!
